@@ -1,13 +1,4 @@
-# Interviews
-> Pass your coding interviews with [The Daily Byte](https://thedailybyte.dev/?ref=kevin)  
-> [30,000+ Software Engineers have trusted us with their interview prep](https://thedailybyte.dev/?ref=kevin).
-<a href="" style="display:block;"><img src="/images/the-daily-byte.png?raw=true"></a>
->
-> Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
-## Translations
-
-- [简体中文](./README-zh-cn.md)
 
 ## Table of Contents
 - [YouTube](#youtube)
